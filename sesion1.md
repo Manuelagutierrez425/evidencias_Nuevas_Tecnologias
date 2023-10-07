@@ -3,7 +3,7 @@
 
 ## Sesión 1 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://firebasestorage.googleapis.com/v0/b/manu-167d8.appspot.com/o/1.jfif?alt=media&token=aa459bba-939c-40c0-a543-392c97091260&_gl=1*129jlss*_ga*NDY5NTY0MTU5LjE2OTY2OTM4MzE.*_ga_CW55HF8NVT*MTY5NjcwOTQ2MS4yLjEuMTY5NjcwOTU4MC42MC4wLjA.)
 
 <!-- Su documentación aquí -->
 Pregunta 1:

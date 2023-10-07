@@ -5,7 +5,7 @@
 
 
 <!-- Su documentación aquí -->
-
+```python
 Ejercicio1
 
 def calculadora(n1,n2,op):
@@ -25,7 +25,8 @@ num2 = int(input("Ingrese el segundo numero: "))
 op = input("Ingrese el operador: ")
 x = calculadora(num1,num2,op)
 print(x)
-
+```
+```python
 Ejercicio2
 
 def contar_vocales(palabras):
@@ -39,7 +40,8 @@ def contar_vocales(palabras):
 palabras = input("Ingrese una o más palabras: ")
 resultado = contar_vocales(palabras)
 print("Número de vocales:", resultado)
-
+```
+```python
 Ejercicio3
 
 def es_primo(num):
@@ -61,7 +63,8 @@ if resultado:
     print(f"{numero} es primo.")
 else:
     print(f"{numero} no es primo.")
-
+```
+```python
 Ejercicio4
 
 def contar_palabras(cadena):
@@ -71,7 +74,8 @@ def contar_palabras(cadena):
 cadena = input("Ingrese una o más palabras: ")
 resultado = contar_palabras(cadena)
 print("Número de palabras:", resultado)
-
+```
+```python
 Ejercicio5
 
 def potencia(base, exponente):
@@ -82,6 +86,7 @@ numBase = 2
 numExponente = 3
 resultado = potencia(numBase, numExponente)
 print(f"{numBase} elevado a la {numExponente} es igual a {resultado}")
+```
 
 
 
